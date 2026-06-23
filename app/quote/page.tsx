@@ -14,6 +14,7 @@ const projectTypes = [
 ]
 
 const budgetOptions = [
+  { id: "2k-5k", label: "$2k - $5k" },
   { id: "5k-15k", label: "$5k - $15k" },
   { id: "15k-30k", label: "$15k - $30k" },
   { id: "30k-60k", label: "$30k - $60k" },
